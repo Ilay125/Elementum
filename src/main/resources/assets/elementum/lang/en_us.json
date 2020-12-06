@@ -1,5 +1,11 @@
 {
   "itemGroup.elementumTab": "Elementum",
 
-  "item.elementum.capsule": "Capsule"
+  "item.elementum.capsule": "Capsule",
+  "item.elementum.the_capsule_of_confusion": "Capsule",
+  "item.elementum.aquarium_ingot": "Aquarium Ingot",
+  "item.elementum.hellfire_ingot": "Hellfire Ingot",
+  "item.elementum.deep_stone": "Deep Stone",
+  "item.elementum.air_gem": "Air Gem"
+
 }
