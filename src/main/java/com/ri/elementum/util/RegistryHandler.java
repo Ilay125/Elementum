@@ -1,6 +1,8 @@
 package com.ri.elementum.util;
 
 import com.ri.elementum.blocks.BlockItemBase;
+import com.ri.elementum.blocks.ElementumForgeBlock;
+import com.ri.elementum.blocks.EnhancementForgeBlock;
 import com.ri.elementum.blocks.ShapeForgeBlock;
 import com.ri.elementum.Elementum;
 import com.ri.elementum.items.ItemBase;
@@ -31,8 +33,11 @@ public class RegistryHandler {
 
     //fucking blocks idot
     public static final RegistryObject<Block> SHAPE_FORGE_BLOCK = BLOCKS.register("shape_forge_block", ShapeForgeBlock::new);
-
+    public static final RegistryObject<Block> ENHANCEMENT_FORGE_BLOCK = BLOCKS.register("enhancement_forge_block", EnhancementForgeBlock::new);
+    public static final RegistryObject<Block> ELEMENTUM_FORGE_FORGE = BLOCKS.register("elementum_forge_block", ElementumForgeBlock::new);
 
     //blocks items??? wtf the fuck
     public static final RegistryObject<Item> SHAPE_FORGE_ITEM = ITEMS.register("shape_forge_block", () -> new BlockItemBase(SHAPE_FORGE_BLOCK.get()));
+    public static final RegistryObject<Item> ENHANCEMENT_FORGE_ITEM = ITEMS.register("enhancement_forge_block", () -> new BlockItemBase(ENHANCEMENT_FORGE_BLOCK.get()));
+    public static final RegistryObject<Item> ELEMENTUM_FORGE_ITEM = ITEMS.register("elementum_forge_block", () -> new BlockItemBase(ELEMENTUM_FORGE_FORGE.get()));
 }
