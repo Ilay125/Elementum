@@ -45,6 +45,6 @@ public class RegistryHandler {
     public static final RegistryObject<Item> AQUARIUM_ORE_ITEM = ITEMS.register("aquarium_ore", () -> new BlockItemBase(AQUARIUM_ORE_BLOCK.get()));
     public static final RegistryObject<Item> HELLFIRE_ORE_ITEM = ITEMS.register("hellfire_ore", () -> new BlockItemBase(HELLFIRE_ORE_BLOCK.get()));
     public static final RegistryObject<Item> DEEP_STONE_ORE_ITEM = ITEMS.register("deep_stone_ore", () -> new BlockItemBase(DEEP_STONE_ORE_BLOCK.get()));
-    public static final RegistryObject<Item> AIRIUM_ORE_ITEM = ITEMS.register("airium_stone_ore", () -> new BlockItemBase(AIRIUM_ORE_BLOCK.get()));
+    public static final RegistryObject<Item> AIRIUM_ORE_ITEM = ITEMS.register("airium_ore", () -> new BlockItemBase(AIRIUM_ORE_BLOCK.get()));
 
 }
