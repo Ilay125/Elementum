@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model":  "elementum:block/elementum_forge_block"}
+    "": { "model":  "elementum:block/elementum_forge"}
   }
 }

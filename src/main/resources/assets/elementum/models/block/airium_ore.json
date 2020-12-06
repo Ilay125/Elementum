@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "elementum:blocks/airium_ore_block"
+    "all": "elementum:blocks/airium_ore"
   }
 }

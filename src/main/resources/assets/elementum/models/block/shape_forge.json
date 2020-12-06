@@ -1,5 +1,5 @@
 {
-  "parent": "block/crafting_table",
+  "parent": "block/cube_all",
   "textures": {
     "up": "elementum:blocks/shape_forge_top",
     "down": "minecraft:blocks/iron_block",
