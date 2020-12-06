@@ -33,7 +33,7 @@ public class RegistryHandler {
     public static final RegistryObject<Block> SHAPE_FORGE_BLOCK = BLOCKS.register("shape_forge_block", ShapeForgeBlock::new);
     public static final RegistryObject<Block> ENHANCEMENT_FORGE_BLOCK = BLOCKS.register("enhancement_forge_block", EnhancementForgeBlock::new);
     public static final RegistryObject<Block> ELEMENTUM_FORGE_FORGE = BLOCKS.register("elementum_forge_block", ElementumForgeBlock::new);
-    public static final RegistryObject<Block> AQUARIUM_ORE_BLOCK = BLOCKS.register("aquarium_forge_block",  AquariumOreBlock::new);
+    public static final RegistryObject<Block> AQUARIUM_ORE_BLOCK = BLOCKS.register("aquarium_ore_block",  AquariumOreBlock::new);
     public static final RegistryObject<Block> HELLFIRE_ORE_BLOCK = BLOCKS.register("hellfire_ore_block", HellfireOreBlock::new);
     public static final RegistryObject<Block> DEEP_STONE_ORE_BLOCK = BLOCKS.register("deep_stone_ore_block", DeepStoneOreBlock::new);
     public static final RegistryObject<Block> AIRIUM_ORE_BLOCK = BLOCKS.register("airium_ore_block", AiriumOreBlock::new);
