@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "i i",
+    "dgd",
+    "i i"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glass_pane"
+
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "elementum:capsule",
+    "count": 1
+  }
+}

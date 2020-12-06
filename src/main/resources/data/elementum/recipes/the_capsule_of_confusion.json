@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "igi"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glass_pane"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "elementum:the_capsule_of_confusion",
+    "count": 1
+  }
+}
