@@ -8,11 +8,11 @@
   "item.elementum.deep_stone": "Deep Stone",
   "item.elementum.airium_gem": "Airium Gem",
 
-  "block.elementum.shape_forge_block": "Shape Forge",
-  "block.elementum.enhancement_forge_block": "Enhancement Forge",
-  "block.elementum.elementum_forge_block": "Elementum Forge",
-  "block.elementum.airium_ore_block": "Airium Ore",
-  "block.elementum.aquarium_ore_block": "Aquarium Ore",
-  "block.elementum.deep_stone_ore_block": "Deep Stone Ore",
-  "block.elementum.hellfire_ore_block": "Hellfire Ore"
+  "block.elementum.shape_forge": "Shape Forge",
+  "block.elementum.enhancement_forge": "Enhancement Forge",
+  "block.elementum.elementum_forge": "Elementum Forge",
+  "block.elementum.airium_ore": "Airium Ore",
+  "block.elementum.aquarium_ore": "Aquarium Ore",
+  "block.elementum.deep_stone_ore": "Deep Stone Ore",
+  "block.elementum.hellfire_ore": "Hellfire Ore"
 }

@@ -1,6 +1,11 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/crafting_table",
   "textures": {
-    "all": "elementum:blocks/shape_forge_block"
+    "up": "elementum:blocks/shape_forge_top",
+    "down": "minecraft:blocks/iron_block",
+    "south": "elementum:blocks/shape_forge_side",
+    "north": "elementum:blocks/shape_forge_side",
+    "west": "elementum:blocks/shape_forge_front",
+    "east": "elementum:blocks/shape_forge_front"
   }
 }

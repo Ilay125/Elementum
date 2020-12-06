@@ -5,9 +5,9 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraftforge.common.ToolType;
 
-public class EnhancementForgeBlock extends Block {
+public class EnhancementForge extends Block {
 
-    public EnhancementForgeBlock() {
+    public EnhancementForge() {
         super(Block.Properties.create(Material.IRON)
                 .hardnessAndResistance(5.0f, 10.0f)
                 .sound(SoundType.METAL)

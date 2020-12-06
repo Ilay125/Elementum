@@ -5,14 +5,15 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraftforge.common.ToolType;
 
-public class ElementumForgeBlock extends Block {
+public class DeepStoneOre extends Block {
 
-    public ElementumForgeBlock() {
-        super(Block.Properties.create(Material.IRON)
-                .hardnessAndResistance(6.0f, 22.5f)
-                .sound(SoundType.METAL)
+    public DeepStoneOre() {
+        super(Block.Properties.create(Material.ROCK)
+                .hardnessAndResistance(3f, 1.5f)
+                .sound(SoundType.STONE)
                 .harvestLevel(3)
                 .harvestTool(ToolType.PICKAXE)
         );
     }
 }
+
