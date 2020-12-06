@@ -5,14 +5,15 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraftforge.common.ToolType;
 
-public class ElementumForgeBlock extends Block {
+public class AiriumOreBlock extends Block {
 
-    public ElementumForgeBlock() {
-        super(Block.Properties.create(Material.IRON)
-                .hardnessAndResistance(6.0f, 22.5f)
-                .sound(SoundType.METAL)
+    public AiriumOreBlock() {
+        super(Block.Properties.create(Material.ROCK)
+                .hardnessAndResistance(5f, 3f)
+                .sound(SoundType.STONE)
                 .harvestLevel(3)
                 .harvestTool(ToolType.PICKAXE)
         );
     }
 }
+

@@ -3,12 +3,16 @@
 
   "item.elementum.capsule": "Capsule",
   "item.elementum.the_capsule_of_confusion": "Capsule",
-  "item.elementum.aquarium_ingot": "Aquarium Ingot",
+  "item.elementum.aquarium": "Aquarium",
   "item.elementum.hellfire_ingot": "Hellfire Ingot",
   "item.elementum.deep_stone": "Deep Stone",
-  "item.elementum.air_gem": "Air Gem",
+  "item.elementum.airium_gem": "Airium Gem",
 
   "block.elementum.shape_forge_block": "Shape Forge",
   "block.elementum.enhancement_forge_block": "Enhancement Forge",
-  "block.elementum.elementum_forge_block": "Elementum Forge"
+  "block.elementum.elementum_forge_block": "Elementum Forge",
+  "block.elementum.airium_ore_block": "Airium Ore",
+  "block.elementum.aquarium_ore_block": "Aquarium Ore",
+  "block.elementum.deep_stone_ore_block": "Deep Stone Ore",
+  "block.elementum.hellfire_ore_block": "Hellfire Ore"
 }

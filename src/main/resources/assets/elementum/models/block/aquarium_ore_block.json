@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "elementum:blocks/aquarium_ore_block"
+  }
+}
