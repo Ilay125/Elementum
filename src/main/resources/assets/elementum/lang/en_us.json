@@ -6,6 +6,9 @@
   "item.elementum.aquarium_ingot": "Aquarium Ingot",
   "item.elementum.hellfire_ingot": "Hellfire Ingot",
   "item.elementum.deep_stone": "Deep Stone",
-  "item.elementum.air_gem": "Air Gem"
+  "item.elementum.air_gem": "Air Gem",
 
+  "block.elementum.shape_forge_block": "Shape Forge",
+  "block.elementum.enhancement_forge_block": "Enhancement Forge",
+  "block.elementum.elementum_forge_block": "Elementum Forge"
 }
