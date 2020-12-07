@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "iii",
+    "geg",
+    "iii"
+  ],
+  "key": {
+    "g": [
+      {"item": "elementum:airium"}, {"item": "elementum:hellfire"}, {"item": "elementum:aquarium"}, {"item": "elementum:deep_stone"}],
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "e": {
+      "item": "minecraft:enchanting_table"
+    }
+  },
+  "result": {
+    "item": "elementum:enhancement_forge",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "iii",
+    "gcg",
+    "iii"
+  ],
+  "key": {
+    "g": [
+      {"item": "elementum:airium"}, {"item": "elementum:hellfire"}, {"item": "elementum:aquarium"}, {"item": "elementum:deep_stone"}],
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "result": {
+    "item": "elementum:shape_forge",
+    "count": 1
+  }
+}
