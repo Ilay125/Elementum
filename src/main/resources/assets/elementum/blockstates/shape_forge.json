@@ -1,5 +1,5 @@
 {
   "variants": {
-    "normal": { "model": "elementum:shape_forge" }
+    "": { "model":  "elementum:block/shape_forge"}
   }
 }

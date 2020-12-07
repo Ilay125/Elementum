@@ -29,22 +29,22 @@ public class RegistryHandler {
     public static final RegistryObject<Item> AIRIUM_GEM = ITEMS.register("airium_gem", ItemBase::new);
 
     //fucking blocks idot
-    public static final RegistryObject<Block> SHAPE_FORGE_BLOCK = BLOCKS.register("shape_forge", ShapeForge::new);
-    public static final RegistryObject<Block> ENHANCEMENT_FORGE_BLOCK = BLOCKS.register("enhancement_forge", EnhancementForge::new);
-    public static final RegistryObject<Block> ELEMENTUM_FORGE_FORGE = BLOCKS.register("elementum_forge", ElementumForge::new);
-    public static final RegistryObject<Block> AQUARIUM_ORE_BLOCK = BLOCKS.register("aquarium_ore",  AquariumOre::new);
-    public static final RegistryObject<Block> HELLFIRE_ORE_BLOCK = BLOCKS.register("hellfire_ore", HellfireOre::new);
-    public static final RegistryObject<Block> DEEP_STONE_ORE_BLOCK = BLOCKS.register("deep_stone_ore", DeepStoneOre::new);
-    public static final RegistryObject<Block> AIRIUM_ORE_BLOCK = BLOCKS.register("airium_ore", AiriumOre::new);
+    public static final RegistryObject<Block> SHAPE_FORGE = BLOCKS.register("shape_forge", ShapeForge::new);
+    public static final RegistryObject<Block> ENHANCEMENT_FORGE = BLOCKS.register("enhancement_forge", EnhancementForge::new);
+    public static final RegistryObject<Block> ELEMENTUM_FORGE = BLOCKS.register("elementum_forge", ElementumForge::new);
+    public static final RegistryObject<Block> AQUARIUM_ORE = BLOCKS.register("aquarium_ore",  AquariumOre::new);
+    public static final RegistryObject<Block> HELLFIRE_ORE = BLOCKS.register("hellfire_ore", HellfireOre::new);
+    public static final RegistryObject<Block> DEEP_STONE_ORE = BLOCKS.register("deep_stone_ore", DeepStoneOre::new);
+    public static final RegistryObject<Block> AIRIUM_ORE = BLOCKS.register("airium_ore", AiriumOre::new);
 
 
     //blocks items??? wtf the fuck
-    public static final RegistryObject<Item> SHAPE_FORGE_ITEM = ITEMS.register("shape_forge", () -> new BlockItemBase(SHAPE_FORGE_BLOCK.get()));
-    public static final RegistryObject<Item> ENHANCEMENT_FORGE_ITEM = ITEMS.register("enhancement_forge", () -> new BlockItemBase(ENHANCEMENT_FORGE_BLOCK.get()));
-    public static final RegistryObject<Item> ELEMENTUM_FORGE_ITEM = ITEMS.register("elementum_forge", () -> new BlockItemBase(ELEMENTUM_FORGE_FORGE.get()));
-    public static final RegistryObject<Item> AQUARIUM_ORE_ITEM = ITEMS.register("aquarium_ore", () -> new BlockItemBase(AQUARIUM_ORE_BLOCK.get()));
-    public static final RegistryObject<Item> HELLFIRE_ORE_ITEM = ITEMS.register("hellfire_ore", () -> new BlockItemBase(HELLFIRE_ORE_BLOCK.get()));
-    public static final RegistryObject<Item> DEEP_STONE_ORE_ITEM = ITEMS.register("deep_stone_ore", () -> new BlockItemBase(DEEP_STONE_ORE_BLOCK.get()));
-    public static final RegistryObject<Item> AIRIUM_ORE_ITEM = ITEMS.register("airium_ore", () -> new BlockItemBase(AIRIUM_ORE_BLOCK.get()));
+    public static final RegistryObject<Item> SHAPE_FORGE_ITEM = ITEMS.register("shape_forge", () -> new BlockItemBase(SHAPE_FORGE.get()));
+    public static final RegistryObject<Item> ENHANCEMENT_FORGE_ITEM = ITEMS.register("enhancement_forge", () -> new BlockItemBase(ENHANCEMENT_FORGE.get()));
+    public static final RegistryObject<Item> ELEMENTUM_FORGE_ITEM = ITEMS.register("elementum_forge", () -> new BlockItemBase(ELEMENTUM_FORGE.get()));
+    public static final RegistryObject<Item> AQUARIUM_ORE_ITEM = ITEMS.register("aquarium_ore", () -> new BlockItemBase(AQUARIUM_ORE.get()));
+    public static final RegistryObject<Item> HELLFIRE_ORE_ITEM = ITEMS.register("hellfire_ore", () -> new BlockItemBase(HELLFIRE_ORE.get()));
+    public static final RegistryObject<Item> DEEP_STONE_ORE_ITEM = ITEMS.register("deep_stone_ore", () -> new BlockItemBase(DEEP_STONE_ORE.get()));
+    public static final RegistryObject<Item> AIRIUM_ORE_ITEM = ITEMS.register("airium_ore", () -> new BlockItemBase(AIRIUM_ORE.get()));
 
 }
