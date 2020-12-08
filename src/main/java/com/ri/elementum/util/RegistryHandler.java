@@ -5,6 +5,7 @@ import com.ri.elementum.Elementum;
 import com.ri.elementum.items.ItemBase;
 import net.minecraft.item.Item;
 import net.minecraft.block.Block;
+import net.minecraft.item.PickaxeItem;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
@@ -48,5 +49,9 @@ public class RegistryHandler {
     public static final RegistryObject<Item> HELLFIRE_ORE_ITEM = ITEMS.register("hellfire_ore", () -> new BlockItemBase(HELLFIRE_ORE.get()));
     public static final RegistryObject<Item> DEEP_STONE_ORE_ITEM = ITEMS.register("deep_stone_ore", () -> new BlockItemBase(DEEP_STONE_ORE.get()));
     public static final RegistryObject<Item> AIRIUM_ORE_ITEM = ITEMS.register("airium_ore", () -> new BlockItemBase(AIRIUM_ORE.get()));
+
+    //holy shit its the fucking tools
+    public static final RegistryObject<PickaxeItem> PICKAXE_CAPSULE = ITEMS.register("pickaxe_capsule", () ->
+            new PickaxeItem());
 
 }
