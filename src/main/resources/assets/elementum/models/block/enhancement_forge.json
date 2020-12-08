@@ -1,21 +1,12 @@
-{   "parent": "block/block",
+{
+  "parent": "block/cube_all",
   "textures": {
-    "particle": "elementum:block/enhancement_forge_side",
-    "bottom": "elementum:block/enhancement_forge_bottom",
-    "top": "elementum:block/enhancement_forge_top",
-    "side": "elementum:block/enhancement_forge_side"
-  },
-  "elements": [
-    {   "from": [ 0, 0, 0 ],
-      "to": [ 16, 12, 16 ],
-      "faces": {
-        "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cullface": "down" },
-        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
-        "north": { "uv": [ 0, 4, 16, 16 ], "texture": "#side", "cullface": "north" },
-        "south": { "uv": [ 0, 4, 16, 16 ], "texture": "#side", "cullface": "south" },
-        "west":  { "uv": [ 0, 4, 16, 16 ], "texture": "#side", "cullface": "west" },
-        "east":  { "uv": [ 0, 4, 16, 16 ], "texture": "#side", "cullface": "east" }
-      }
-    }
-  ]
+    "particle": "elementum:blocks/shape_forge_front",
+    "up": "elementum:blocks/enhancement_forge_top",
+    "down": "elementum:blocks/enhancement_forge_bottom",
+    "south": "elementum:blocks/enhancement_forge_side",
+    "north": "elementum:blocks/enhancement_forge_side",
+    "west": "elementum:blocks/enhancement_forge_side",
+    "east": "elementum:blocks/enhancement_forge_side"
+  }
 }
