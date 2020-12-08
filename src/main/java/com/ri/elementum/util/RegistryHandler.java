@@ -27,7 +27,7 @@ public class RegistryHandler {
     public static final RegistryObject<Item> HELLFIRE = ITEMS.register("hellfire", ItemBase::new);
     public static final RegistryObject<Item> DEEP_STONE = ITEMS.register("deep_stone", ItemBase::new);
     public static final RegistryObject<Item> AIRIUM = ITEMS.register("airium", ItemBase::new);
-    public static final RegistryObject<Item> DRAGON_HEART = ITEMS.register("dragon_heart", ItemBase::new);
+    public static final RegistryObject<Item> BOSS_ESSENCE = ITEMS.register("boss_essence", () -> new ItemBase(16));
 
     //fucking blocks idot
     public static final RegistryObject<Block> SHAPE_FORGE = BLOCKS.register("shape_forge", ShapeForge::new);
