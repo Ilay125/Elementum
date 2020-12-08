@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "elementum:blocks/deep_stone_ore"
+    "all": "elementum:blocks/deep_earth_ore"
   }
 }

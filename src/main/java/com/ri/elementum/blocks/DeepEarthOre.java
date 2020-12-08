@@ -5,9 +5,9 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraftforge.common.ToolType;
 
-public class DeepStoneOre extends Block {
+public class DeepEarthOre extends Block {
 
-    public DeepStoneOre() {
+    public DeepEarthOre() {
         super(Block.Properties.create(Material.ROCK)
                 .hardnessAndResistance(3f, 1.5f)
                 .sound(SoundType.STONE)

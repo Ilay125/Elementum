@@ -1,19 +1,77 @@
 {
   "itemGroup.elementumTab": "Elementum",
 
+
+
   "item.elementum.capsule": "Capsule",
   "item.elementum.the_capsule_of_confusion": "Capsule",
   "item.elementum.aquarium": "Aquarium",
   "item.elementum.hellfire": "Hellfire",
-  "item.elementum.deep_stone": "Deep Stone",
+  "item.elementum.deep_earth": "Deep Earth",
   "item.elementum.airium": "Airium",
   "item.elementum.boss_essence": "Boss Essence",
+
+  "item.elementum.empty_pickaxe_capsule": "Empty Pickaxe Capsule",
+  "item.elementum.hellfire_pickaxe_capsule": "Hellfire Pickaxe Capsule",
+  "item.elementum.aquarium_pickaxe_capsule": "Aquarium Pickaxe Capsule",
+  "item.elementum.deep_earth_pickaxe_capsule": "Deep Earth Pickaxe Capsule",
+  "item.elementum.airium_pickaxe_capsule": "Airium Pickaxe Capsule",
+
+  "item.elementum.empty_sword_capsule": "Empty Sword Capsule",
+  "item.elementum.hellfire_sword_capsule": "Hellfire Sword Capsule",
+  "item.elementum.aquarium_sword_capsule": "Aquarium Sword Capsule",
+  "item.elementum.deep_earth_sword_capsule": "Deep Earth Sword Capsule",
+  "item.elementum.airium_sword_capsule": "Airium Sword Capsule",
+
+  "item.elementum.empty_axe_capsule": "Empty Axe Capsule",
+  "item.elementum.hellfire_axe_capsule": "Hellfire Axe Capsule",
+  "item.elementum.aquarium_axe_capsule": "Aquarium Axe Capsule",
+  "item.elementum.deep_earth_axe_capsule": "Deep Earth Axe Capsule",
+  "item.elementum.airium_axe_capsule": "Airium Axe Capsule",
+
+  "item.elementum.empty_shovel_capsule": "Empty Shovel Capsule",
+  "item.elementum.hellfire_shovel_capsule": "Hellfire Shovel Capsule",
+  "item.elementum.aquarium_shovel_capsule": "Aquarium Shovel Capsule",
+  "item.elementum.deep_earth_shovel_capsule": "Deep Earth Shovel Capsule",
+  "item.elementum.airium_shovel_capsule": "Airium Shovel Capsule",
+
+  "item.elementum.empty_hoe_capsule": "Empty Hoe Capsule",
+  "item.elementum.hellfire_hoe_capsule": "Hellfire Hoe Capsule",
+  "item.elementum.aquarium_hoe_capsule": "Aquarium Hoe Capsule",
+  "item.elementum.deep_earth_hoe_capsule": "Deep Earth Hoe Capsule",
+  "item.elementum.airium_hoe_capsule": "Airium Hoe Capsule",
+
+  "item.elementum.empty_helmet_capsule": "Empty Helmet Capsule",
+  "item.elementum.hellfire_helmet_capsule": "Hellfire Helmet Capsule",
+  "item.elementum.aquarium_helmet_capsule": "Aquarium Helmet Capsule",
+  "item.elementum.deep_earth_helmet_capsule": "Deep Earth Helmet Capsule",
+  "item.elementum.airium_helmet_capsule": "Airium Helmet Capsule",
+
+  "item.elementum.empty_chestplate_capsule": "Empty Chestplate Capsule",
+  "item.elementum.hellfire_chestplate_capsule": "Hellfire Chestplate Capsule",
+  "item.elementum.aquarium_chestplate_capsule": "Aquarium Chestplate Capsule",
+  "item.elementum.deep_earth_chestplate_capsule": "Deep Earth Chestplate Capsule",
+  "item.elementum.airium_chestplate_capsule": "Airium Chestplate Capsule",
+
+  "item.elementum.empty_leggings_capsule": "Empty Leggings Capsule",
+  "item.elementum.hellfire_leggings_capsule": "Hellfire Leggings Capsule",
+  "item.elementum.aquarium_leggings_capsule": "Aquarium Leggings Capsule",
+  "item.elementum.deep_earth_leggings_capsule": "Deep Earth Leggings Capsule",
+  "item.elementum.airium_leggings_capsule": "Airium Leggings Capsule",
+
+  "item.elementum.empty_boots_capsule": "Empty Boots Capsule",
+  "item.elementum.hellfire_boots_capsule": "Hellfire Boots Capsule",
+  "item.elementum.aquarium_boots_capsule": "Aquarium Boots Capsule",
+  "item.elementum.deep_earth_boots_capsule": "Deep Earth Boots Capsule",
+  "item.elementum.airium_boots_capsule": "Airium Boots Capsule",
+
+
 
   "block.elementum.shape_forge": "Shape Forge",
   "block.elementum.enhancement_forge": "Enhancement Forge",
   "block.elementum.elementum_forge": "Elementum Forge",
   "block.elementum.airium_ore": "Airium Ore",
   "block.elementum.aquarium_ore": "Aquarium Ore",
-  "block.elementum.deep_stone_ore": "Deep Stone Ore",
+  "block.elementum.deep_earth_ore": "Deep Earth Ore",
   "block.elementum.hellfire_ore": "Hellfire Ore"
 }

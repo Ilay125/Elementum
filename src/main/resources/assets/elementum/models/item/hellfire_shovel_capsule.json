@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "elementum:items/hellfire_shovel_capsule"
+  }
+}
