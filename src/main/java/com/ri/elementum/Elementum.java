@@ -16,13 +16,12 @@ public class Elementum
 {
     private static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "elementum";
-
+    
     public Elementum() {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::doClientStuff);
 
         RegistryHandler.init();
-
         MinecraftForge.EVENT_BUS.register(this);
     }
 
@@ -36,5 +35,7 @@ public class Elementum
             return new ItemStack(RegistryHandler.CAPSULE.get());
         }
     };
+
+
 
 }

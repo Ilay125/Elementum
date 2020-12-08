@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "nbn",
+    "gdg",
+    "nbn"
+  ],
+  "key": {
+    "g": [
+      {"item": "elementum:airium"}, {"item": "elementum:hellfire"}, {"item": "elementum:aquarium"}, {"item": "elementum:deep_stone"}],
+    "n": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:diamond_block"
+    },
+    "d": {
+      "item": "elementum:dragon_heart"
+    }
+  },
+  "result": {
+    "item": "elementum:elementum_forge",
+    "count": 1
+  }
+}

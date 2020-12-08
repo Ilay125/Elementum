@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "elementum:items/air_gem"
+    "layer0": "elementum:items/dragon_heart"
   }
 }
