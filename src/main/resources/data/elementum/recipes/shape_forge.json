@@ -7,8 +7,9 @@
     "iii"
   ],
   "key": {
-    "g": [
-      {"item": "elementum:airium"}, {"item": "elementum:hellfire"}, {"item": "elementum:aquarium"}, {"item": "elementum:deep_stone"}],
+    "g": {
+      "tag":"elementum:elements"
+    },
     "i": {
       "item": "minecraft:iron_ingot"
     },

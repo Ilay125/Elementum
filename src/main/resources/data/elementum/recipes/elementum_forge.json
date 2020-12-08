@@ -7,8 +7,9 @@
     "nbn"
   ],
   "key": {
-    "g": [
-      {"item": "elementum:airium"}, {"item": "elementum:hellfire"}, {"item": "elementum:aquarium"}, {"item": "elementum:deep_stone"}],
+    "g": {
+      "item": "elementum:elements"
+    },
     "n": {
       "item": "minecraft:diamond"
     },
