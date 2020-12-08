@@ -1,6 +1,12 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "elementum:blocks/elementum_forge"
+    "particle": "elementum:blocks/elementum_forge_bottom",
+    "up": "elementum:blocks/elementum_forge_top",
+    "down": "elementum:blocks/elementum_forge_bottom",
+    "south": "elementum:blocks/elementum_forge_south",
+    "north": "elementum:blocks/elementum_forge_north",
+    "west": "elementum:blocks/elementum_forge_west",
+    "east": "elementum:blocks/elementum_forge_east"
   }
 }
